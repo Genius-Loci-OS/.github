@@ -1,18 +1,24 @@
-This is a markdown test.
+![Logo](assets/Logo.drawio.png)
 
-# Genius Loci - Universal$Core 
+## Elevator Speech
+
+Genius Loci is a meta-operating system.   
+
 
 ![High Level Schematic](assets/High-Level%20Schematic.drawio.png)
 
 
+
 ## Key Technologies
 
- * C#
+ * C#/.NET
  * Rust
  * IROH
  * Webassembly (wasmtime)
+ * Linux/Windows/Android
  * Bebop
  * Godot VR/AR
- * Linux
  * PodMan
  * OpenTelemetry
+
+## License - EUPL - EU Public License
